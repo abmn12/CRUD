@@ -1,6 +1,6 @@
-# CRUD
+# WEB APPLICATION
 
-##This is A Web Apllication created using HTML,CSS and JS in the browser with PHP as the backened framework.
+## This is A Web Apllication created using HTML,CSS and JS in the browser with PHP as the backened framework.
 
 C-Create
 R-Read
