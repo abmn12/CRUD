@@ -1,12 +1,13 @@
-# WEB APPLICATION
+Broken Rock Paper Scissors
+--------------------------
 
-## This is A Web Apllication created using HTML,CSS and JS in the browser with PHP as the backened framework.
+Here is a URL to the broken version of this application:
 
-C-Create
-R-Read
-U-Update
-D-Delete
+http://www.wa4e.com/code/rps/
 
-So this application can do all the above instructions.
-Basically it is a prfile registery Web page
-Where the user logs into the web page and adds profiles.
+Here is a URL to a working version of this application:
+
+http://www.wa4e.com/solutions/rps/
+
+
+
